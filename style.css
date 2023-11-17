@@ -14,6 +14,12 @@
     padding: 1em;
     border: 1px solid #ddd;
     text-align: center;
+    
 }
+
+.grid-item:hover{
+    background-color: blue;
+}
+
 
 
